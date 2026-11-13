@@ -4,6 +4,8 @@
 
 Interactive article created by **Tasmiah Tahsin Mayeesha**.
 
+[![Preview of the Meena wants a laptop interactive article, showing the notebook-style opening and original Meena illustration.](assets/article-preview.png)](https://tahsin-mayeesha.github.io/meena-wants-a-laptop/)
+
 ## Read the article
 
 https://tahsin-mayeesha.github.io/meena-wants-a-laptop/
